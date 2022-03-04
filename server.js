@@ -17,6 +17,6 @@ function redirectUnmatched(req, res) {
 }
 const port = 8000;
 
-app.listen(port, () => {
+app.listen(process.env.PORT || port, () => {
   console.log("Server listening on port 8000!");
 });
