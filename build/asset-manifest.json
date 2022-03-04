@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5f49113a.css",
+    "main.js": "/static/js/main.849fbca6.js",
+    "static/js/787.9a9d4027.chunk.js": "/static/js/787.9a9d4027.chunk.js",
+    "static/media/img2.jpg": "/static/media/img2.42b1258923434a72ba2c.jpg",
+    "static/media/img4.jpg": "/static/media/img4.5838f076aba0137c4086.jpg",
+    "static/media/bg2.jpg": "/static/media/bg2.2d571a511cea496d0127.jpg",
+    "static/media/img5.jpg": "/static/media/img5.85e1380e93e710d138fc.jpg",
+    "static/media/img3.jpg": "/static/media/img3.47ebe88ed9950dbd4df0.jpg",
+    "static/media/img1.jpg": "/static/media/img1.b6a1ee95be60a9c5e0a8.jpg",
+    "static/media/img6.jpg": "/static/media/img6.a34f12388cf4c2862c14.jpg",
+    "static/media/logo3.png": "/static/media/logo3.9fb9b3c65fd52888da88.png",
+    "static/media/Catamaran-Regular.ttf": "/static/media/Catamaran-Regular.0732146e6b92c479f6a8.ttf",
+    "static/media/Catamaran-Bold.ttf": "/static/media/Catamaran-Bold.562012e54460ba111ec6.ttf",
+    "static/media/twitter.svg": "/static/media/twitter.dff7ca84fd8f734e53c8730e972d2874.svg",
+    "static/media/insta.svg": "/static/media/insta.a8cd437044639282520fa7e98a892072.svg",
+    "static/media/fb.svg": "/static/media/fb.af31b20677c78a32db6aeb1944154430.svg",
+    "index.html": "/index.html",
+    "main.5f49113a.css.map": "/static/css/main.5f49113a.css.map",
+    "main.849fbca6.js.map": "/static/js/main.849fbca6.js.map",
+    "787.9a9d4027.chunk.js.map": "/static/js/787.9a9d4027.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f49113a.css",
+    "static/js/main.849fbca6.js"
+  ]
+}
